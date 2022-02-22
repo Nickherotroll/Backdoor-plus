@@ -123,4 +123,4 @@ def StartFunction():
 if __name__ == '__main__':
 	s = socket.socket()
 	while True:
-		StartServer("192.168.0.113", 6201)
+		StartServer("localhost", 6201)
